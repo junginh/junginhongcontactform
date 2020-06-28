@@ -4,3 +4,4 @@
 - website works
 - but connection from website to lambda function or API does not work
 - no connection to db
+- refered to : https://www.youtube.com/watch?v=lB4DTqMEumY
