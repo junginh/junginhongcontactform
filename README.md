@@ -1,5 +1,5 @@
 # junginhongcontactform
-- code is from https://www.youtube.com/watch?v=FWCCML17raI
+- code is from https://www.youtube.com/watch?v=FWCCML17raI, https://www.youtube.com/watch?v=mfAT38B_uhw
 - the lambda function works; it sends the email
 - API works: it sends the email
 - website works
